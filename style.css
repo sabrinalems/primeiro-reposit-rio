@@ -1,9 +1,13 @@
-p{
+body{
+    background: #CCCCCC
+}
 
+p{
+  
     text-align:center 
    }
-   h1{
-    text-align: center; 
-    background: #272ae2c5
+   
+em strong {
+ color:red;
 
-   }
+}
